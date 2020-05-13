@@ -8,7 +8,7 @@
 
 <!-- images  -->
 
-![world-ball](20200511_12011.jpg)
+![world-ball](photo-1552764217-6d34d9795ab9.jpeg)
 
 <!-- me in one sentence smaller header  -->
 
