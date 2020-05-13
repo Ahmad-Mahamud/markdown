@@ -8,7 +8,7 @@
 
 <!-- images  -->
 
-![world-](https://unsplash.com/photos/82Xsw-pGsJI)
+![world-ball](https://unsplash.com/photos/82Xsw-pGsJI)
 
 <!-- me in one sentence smaller header  -->
 
@@ -41,4 +41,4 @@ the doctor replies  " Sorry i don't follow you..."  </p>
 
 <p>  twitter joke </p>
 
-&lt;&lt; [Yuri f](url)    || Ahmad ||   [Arnaud Langenus](url) >>
+<< [Yuri f](https://github.com/YuriFra/challenge-markdown  )    || Ahmad ||   [Arnaud Langenus](https://github.com/Arnaud-Langenus/Markdown) >>
