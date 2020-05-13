@@ -8,7 +8,7 @@
 
 <!-- images  -->
 
-![world-ball](photo-1552764217-6d34d9795ab9.jpeg)
+![world-ball](stayhome.jpeg)
 
 <!-- me in one sentence smaller header  -->
 
