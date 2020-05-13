@@ -18,7 +18,7 @@
 
 | Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza |
 | -------- | ------ | -------------- | ------------- | ------------------- |
-| 01/11    | male   | green          | pizza         | \* [ ] unchecked    |
+| 01/11    | male   | green          | pizza         | -[ ] yes -[ ] no    |
 
 <!-- tables -->
 
@@ -41,4 +41,4 @@ the doctor replies  " Sorry i don't follow you..."  </p>
 
 <p>  twitter joke </p>
 
-<< [Yuri f](https://github.com/YuriFra/challenge-markdown  )    || Ahmad ||   [Arnaud Langenus](https://github.com/Arnaud-Langenus/Markdown) >>
+<<[Yuri f](https://github.com/YuriFra/challenge-markdown)    || Ahmad ||   [Arnaud Langenus](https://github.com/Arnaud-Langenus/Markdown) >>
